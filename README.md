@@ -15,6 +15,13 @@
 <hr>
 <p style="font-size:16px">Github Explorer é uma aplicação desenvolvida com intuito de listar repositórios contendo suas stars, issues e forks. </p>
 <br>
+<h2>
+   Como instalar
+</h2>
+<hr>
+<p>Digite <pre><code>$ git clone https://github.com/devsfer1/Github-explorer</code></pre> no seu Terminal.</p>
+<br>
+<p>Digite <pre><code>yarn</code></pre> para instalar as dependências.</p>
 <h2>Tecnologias 🚀</h2>
 <hr>
 <p style="font-size:16px">

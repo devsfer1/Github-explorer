@@ -40,12 +40,12 @@ export const RepositoryInfo = styled.section`
 
       strong {
         font-size: 36px;
-        color: #3d3d4d;
+        color: #FAFAFA;
       }
 
       p {
         font-size: 18px;
-        color: #737380;
+        color: #A39EA9;
       }
     }
   }
@@ -64,13 +64,13 @@ export const RepositoryInfo = styled.section`
       strong {
         display: block;
         font-size: 36px;
-        color: #3d3d4d;
+        color: #FAFAFA;
       }
 
       span {
         display: block;
         margin-top: 4px;
-        color: #6c6c80;
+        color: #A39EA9;
       }
     }
   }
@@ -80,12 +80,13 @@ export const Issues = styled.div`
   margin-top: 80px;
 
   a {
-    background: #fff;
+    background: #121214;
     border-radius: 5px;
     width: 100%;
     padding: 24px;
     display: block;
     text-decoration: none;
+    box-shadow: 0 4px 4px 0 rgb(0 0 0 / 50%);
 
     display: flex;
     align-items: center;
@@ -105,7 +106,7 @@ export const Issues = styled.div`
 
       strong {
         font-size: 20px;
-        color: #3D3D4D;
+        color: #E1E1E6;
       }
 
       p {

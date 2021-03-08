@@ -8,7 +8,7 @@ import logoImg from '../../assets/logo.svg';
 import { Title, Form, Repositories, Error } from './styles';
 
 interface Repository {
-  full_name: string;
+  full_name: string;  
   description: string;
   owner: {
     login: string;

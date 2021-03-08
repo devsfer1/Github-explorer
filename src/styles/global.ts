@@ -29,4 +29,12 @@ export default createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  .switch-wrapper {
+    position: relative;
+  }
+
+  .switch-wrapper > div {
+    position: absolute;
+  }
 `
